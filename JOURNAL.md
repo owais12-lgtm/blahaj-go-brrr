@@ -9,8 +9,16 @@ created_at: 2026-8-18
  
 this journal entry i worked on basically the entire project, i watched a yt video about Bluetooth jammers and how cheap they seem to be, and incredibly simple too.  i took quite a bit of itme trying to find footprints for nrf modules. then i made the circuit based on the vid i watched. after this i went thru 2 itterations of the pcb and settled on this final version and added some cool silkscreen art. 
 
-<img width="712" height="393" alt="image" src="https://github.com/user-attachments/assets/6dd8e6d1-c75e-416f-b808-54c0b6f04cd7" />
 
+<img width="712" height="393" alt="image" src="https://github.com/user-attachments/assets/6dd8e6d1-c75e-416f-b808-54c0b6f04cd7" />
+<img width="530" height="485" alt="image" src="https://github.com/user-attachments/assets/bc2990ff-0293-499a-9866-50f9a12ae262" />
+
+<img width="1031" height="468" alt="image" src="https://github.com/user-attachments/assets/24daecf9-ddc7-4d20-bc98-6a3543b8fce0" />
+
+
+<img width="341" height="298" alt="image" src="https://github.com/user-attachments/assets/3c59b90d-5c36-4e34-aa38-a77496e77c01" />
+
+<img width="703" height="917" alt="Screenshot from 2026-08-19 20-26-50" src="https://github.com/user-attachments/assets/b2718227-54f1-4a2c-9576-f2a25caefd34" />
 
 <img width="426" height="530" alt="image" src="https://github.com/user-attachments/assets/fedaf973-237a-468e-b0df-e78ca3c44298" />
 
