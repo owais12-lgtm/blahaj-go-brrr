@@ -1,11 +1,12 @@
-# bluetooth jammer 
+# Bluetooth jammer 
 
-This is a small 44 x 60 mm bluetooth jammer built with a esp 32 and NRF24L01 modules! 
+This is a small 44 x 60 mm Bluetooth jammer built with an ESP-32 and NRF24L01 modules! 
 
-![alt text](image-2.png)
+<img width="426" height="530" alt="image" src="https://github.com/user-attachments/assets/32d5893a-aec0-46ad-82a2-04c0cecf1514" />
+
 
 # schematic 
-![alt text](image-3.png)
+<img width="609" height="327" alt="image" src="https://github.com/user-attachments/assets/c7a8ef26-63cc-48d1-b58b-fdae783de32a" />
 
 # BOM
 
