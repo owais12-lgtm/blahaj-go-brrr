@@ -1,6 +1,5 @@
 ---
 title: "Bluetooth jammer"
-github: "your repo"
 description: This is a small 44 x 60 mm Bluetooth jammer built with an ESP-32 and NRF24L01 modules! 
 created_at: 2026-8-18
 ---
