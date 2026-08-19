@@ -12,8 +12,8 @@ this journal entry i worked on basically the entire project, i watched a yt vide
 
 <img width="712" height="393" alt="image" src="https://github.com/user-attachments/assets/6dd8e6d1-c75e-416f-b808-54c0b6f04cd7" />
 
-<img width="703" height="917" alt="image" src="https://github.com/user-attachments/assets/8223562e-d7fb-47d1-8431-a5244a7a76be" />
 
 
+<img width="703" height="917" alt="image" src="https://github.com/user-attachments/assets/06fe23be-2e7b-4c95-a8a9-baa34e4ca612" />
 
 **Total time spent: 2h**
