@@ -3,7 +3,7 @@ DISCLAIMER: This project is for educational and security research purposes only.
 
 
 This is a small 44 x 60 mm 2.4ghz wifi and bluetooth jammer/deauther. It uses a esp32 and two nRF24L01+PA+LNA! its based on a video i came across on youtube where someone made a similar project. 
-
+ # PCB
 <img width="426" height="530" alt="image" src="https://github.com/user-attachments/assets/32d5893a-aec0-46ad-82a2-04c0cecf1514" />
 
 
