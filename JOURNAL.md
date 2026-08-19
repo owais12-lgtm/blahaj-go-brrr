@@ -7,8 +7,10 @@ created_at: 2026-8-18
 
 # Aug 18th: uh pcb + sch 
  
-this journal entry i worked on basically the entire project, i watched a yt video about Bluetooth jammers and how cheap they seem to be, and incredibly simple too.  i took quite a bit of itme trying to find footprints for nrf modules. then i made the circuit based on the vid i watched. after this i went thru 2 itterations of the pcb and settled on this final version and added some cool silkscreen art. 
+this journal entry, I worked on basically the entire project. I watched a YouTube video about Bluetooth jammers and how cheap they seem to be, and incredibly simple too.  I took quite a bit of time trying to find footprints for nRF modules. Then I made the circuit based on the vid I watched. After this, I went through 2 iterations of the PCB and settled on this final version and added some cool silkscreen art. 
 
+
+For the first iteration, I didn't really like the shape of the PCB cuz it was like really really long cuz of the antenna, and the PCB was generally long too, so I moved to a layout where the nRF modules were on the sides of the esp 32 
 
 <img width="712" height="393" alt="image" src="https://github.com/user-attachments/assets/6dd8e6d1-c75e-416f-b808-54c0b6f04cd7" />
 <img width="530" height="485" alt="image" src="https://github.com/user-attachments/assets/bc2990ff-0293-499a-9866-50f9a12ae262" />
